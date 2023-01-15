@@ -17,7 +17,7 @@
 }
 
 body {
-    @apply font-poppins;
+    @apply font-poppins overflow-x-hidden;
 }
 
 .popup-content {
