@@ -11,7 +11,7 @@ const ProjectSection = () => {
     return (
         <div className="h-full w-full bg-dark-charcoal flex items-center flex-col pb-[100px]">
             <HeadingComponent title={"Projects"} />
-            <div className="w-4/5 flex flex-wrap">
+            <div className="w-4/5 flex flex-wrap justify-center">
                 {projectCard}
             </div>
         </div>
