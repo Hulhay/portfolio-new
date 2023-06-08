@@ -35,6 +35,30 @@ export const skill = [
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665677595/tf_shx6eg.webp",
   },
+  {
+    id: 7,
+    skillName: "graphql",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1686238292/gql_janohb.webp",
+  },
+  {
+    id: 8,
+    skillName: "mysql",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1686238292/mysql_t6x98n.webp",
+  },
+  {
+    id: 9,
+    skillName: "postgresql",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1686238292/postgresql_kn4vnf.webp",
+  },
+  {
+    id: 10,
+    skillName: "redis",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1686238291/redis_sktw19.webp",
+  },
 ];
 
 export const educationFormal = [
