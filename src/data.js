@@ -120,7 +120,7 @@ export const experience = [
     id: 1,
     name: "Refactory.id",
     position: "Junior Engineer",
-    year: "2021 - sekarang",
+    year: "2022 - 20223",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665845674/rf_xfqzlw.webp",
     description:
@@ -143,6 +143,26 @@ export const experience = [
 export const projects = [
   {
     id: 1,
+    name: "GENESIS BY LION PARCEL",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1665850194/genesis_jlol7q.webp",
+    description:
+      "Aplikasi yang dikerjakan selama di refactory.id. Sebuah aplikasi untuk memenuhi kebutuhan operasional Lion Parcel (PT Lion Express) dalam menjalankan pelayanan pengiriman paket. Bekerja sebagai Backend Developer",
+    linkUrl: "https://genesis.lionparcel.com/",
+    linkName: "Genesis Lion Parcel",
+  },
+  {
+    id: 2,
+    name: "Lentera",
+    imgUrl:
+      "https://res.cloudinary.com/dalcly76v/image/upload/v1692083055/lemonilo-removebg-preview_ntmsdf.webp",
+    description:
+      "Lemonilo Internal Administrator merupakan aplikasi berbasis website yang digunakan oleh tim Lemonilo untuk memenuhi kebutuhan operasional Lemonilo dalam menjalankan bisnis penjualan healthy product. Bekerja sebagai Backend dan Frontend Developer",
+    linkUrl: "https://staging-lentera-purchasing.lemonilo.com/",
+    linkName: "Lentera Lemonilo",
+  },
+  {
+    id: 3,
     name: "PAJABAT",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665850156/pajabat_nqbjns.png",
@@ -152,7 +172,7 @@ export const projects = [
     linkName: "Portal Pajabat",
   },
   {
-    id: 2,
+    id: 4,
     name: "VERIFY",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665850183/verify_v5augn.png",
@@ -162,7 +182,7 @@ export const projects = [
     linkName: "Github Repo",
   },
   {
-    id: 3,
+    id: 5,
     name: "ML ✕ DIGITAL ROCK",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665850174/mldr_bz39qz.png",
@@ -172,7 +192,7 @@ export const projects = [
     linkName: "Showcase Project",
   },
   {
-    id: 4,
+    id: 6,
     name: "JAJAN KUY",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1665850168/jk_xwnc54.png",
@@ -180,16 +200,6 @@ export const projects = [
       "Sebuah aplikasi titip jajan online berbasis web. Memanfaatkan Spreadsheet API dan Local Storage. Telah digunakan oleh santri kamar Daarul Ilmi, SMA Daarut Tauhiid Boarding School Putra.",
     linkUrl: "https://jajankuydemo.netlify.app/",
     linkName: "Jajan Kuy Demo",
-  },
-  {
-    id: 5,
-    name: "GENESIS BY LION PARCEL",
-    imgUrl:
-      "https://res.cloudinary.com/dalcly76v/image/upload/v1665850194/genesis_jlol7q.webp",
-    description:
-      "Aplikasi yang dikerjakan selama di refactory.id. Sebuah aplikasi untuk memenuhi kebutuhan operasional Lion Parcel (PT Lion Express) dalam menjalankan pelayanan pengiriman paket. Bekerja sebagai Backend Developer",
-    linkUrl: "https://genesis.lionparcel.com/",
-    linkName: "Genesis Lion Parcel",
   },
 ];
 
