@@ -153,7 +153,7 @@ export const projects = [
   },
   {
     id: 2,
-    name: "Lentera",
+    name: "LENTERA BY LEMONILO",
     imgUrl:
       "https://res.cloudinary.com/dalcly76v/image/upload/v1692083055/lemonilo-removebg-preview_ntmsdf.webp",
     description:
